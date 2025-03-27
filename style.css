@@ -5,3 +5,9 @@ h1 {font-style: italic;
     color:darkred;
     font-size: xx-large;
 }
+
+img {
+    border-radius: 18%;
+
+
+}
