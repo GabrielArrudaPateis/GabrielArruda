@@ -1,8 +1,11 @@
 body{
-    background-color:aquamarine;
+    background-color: red;
     text-align: center;
 }
 h1 {font-style: italic;
-    color:darkred;
+    color:rgb(25, 0, 255);
     font-size: xx-large;
+}
+.imagem{
+        width: 30%;
 }
